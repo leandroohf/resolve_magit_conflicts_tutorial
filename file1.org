@@ -14,6 +14,10 @@
 * This header has conflict
   
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f7eed5e8c44832e7ae72f1c9cd463dc1ff174ecc
   I like to eat apples
 
   Vou mudara mais linahs
