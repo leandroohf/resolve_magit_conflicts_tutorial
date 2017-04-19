@@ -14,24 +14,12 @@
 * This header has conflict
   
 
-<<<<<<< variant A
->>>>>>> variant B
 
-======= end
   I like to eat apples
 
   Vou mudara mais linahs
   nao estah aparecendo em nehum lufgra
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 3e91ccc... dev: Commit
 
-=======
-  
->>>>>>> b955760... commit 3
-=======
-  
->>>>>>> f7eed5e... commit 3
   *Eu quero I want grapes as conflicts*
   
 * This header has no conflict
