@@ -5,7 +5,7 @@
 
 * This header has conflict
 
-  I like to eat grapes
+  I like to eat apples
 
 * This header has no conflict
 
