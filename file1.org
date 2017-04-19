@@ -12,14 +12,13 @@
   I play basketball
 
 * This header has conflict
+  
 
-<<<<<<< HEAD
   I like to eat apples
-=======
+
   Vou mudara mais linahs
   nao estah aparecendo em nehum lufgra
->>>>>>> new-branch
-
+  
   *Eu quero I want grapes as conflicts*
   
 * This header has no conflict
