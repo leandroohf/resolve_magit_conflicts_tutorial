@@ -1,4 +1,12 @@
+* Steps
 
+  1. Create the repo
+  2. Create the file
+  3. Create a new branch
+  4. Push all to bitbucket
+  5. Create the conflicts
+  6. Resolve the conflicts
+  
 * This header has no conflict
 
   I play basketball
